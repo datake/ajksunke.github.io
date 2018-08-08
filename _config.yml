@@ -1,7 +1,7 @@
 # Site settings
 title: Ke Sun(孙科)
 SEOTitle: Ke Sun
-header-img: img/post-bg-desk.jpg
+header-img: img/1083822.jpg
 email: ajksunke@gmail.com
 description: "Personal blog about thinking in work and life."
 keyword: "Ke Sun, 孙科, Data Science, research, Artificial Intelligience, Statistics"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/datake/datake.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "The natue of a person is a period of time."
+sidebar-about-description: "人的本质是一段时间.The Natue of a Person is a Period of Time."
 sidebar-avatar: /img/github个人照片.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,7 +19,7 @@ sidebar-avatar: /img/github个人照片.jpg      # use absolute URL, seeing it's
 # SNS settings
 RSS: false
 # weibo_username:     sunke
-zhihu_username:     sunke
+zhihu_username:     孙科
 #github_username:    sunke
 #facebook_username:  sunke 
 #jianshu_username:   ajksunke
