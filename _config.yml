@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 Disqus（https://disqus.com/）
-disqus_username: sunke
+disqus_username: ajksunke
 
 # Gitalk
 gitalk:
@@ -74,10 +74,20 @@ gitalk:
 # Analytics settings
 # Baidu Analytics
 #ba_track_id: b50bf2b12b5338a1845e33832976fd68
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?961464f8edd3367dba8bc78bda7a601d";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 
 # Google Analytics
-#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-124885050-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
