@@ -1,10 +1,10 @@
 # Site settings
-title: Ke Sun(孙科)
-SEOTitle: Ke Sun(孙科)
+title: 苏克的博客
+SEOTitle: 苏克的博客
 header-img: img/1083822.jpg
 email: ajksunke@gmail.com
 description: "Personal blog about thinking in work and life."
-keyword: "Ke Sun, 孙科, Data Science, research, Artificial Intelligience, Statistics"
+keyword: "Ke Sun, Data Science, research, Artificial Intelligience, Statistics"
 url: "http://datake.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/datake/datake.github.io.git" # you code repository
@@ -95,7 +95,7 @@ ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
