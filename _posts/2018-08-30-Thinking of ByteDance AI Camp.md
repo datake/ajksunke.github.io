@@ -3,12 +3,12 @@ layout:     post                    # 使用的布局（不需要改）
 title:      字节跳动AI夏令营参营感悟               # 标题 
 subtitle:   感悟 #副标题
 date:       2018-08-30              # 时间
-author:     苏克                      # 作者
+author:     Ke Sun                      # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - 感悟
----
+---    
 
 # 字节跳动AI夏令营感悟  
 >机缘巧合参加了2018年字节跳动第一届AI夏令营，收获很大，对每个演讲做一份自己的感悟记录。
