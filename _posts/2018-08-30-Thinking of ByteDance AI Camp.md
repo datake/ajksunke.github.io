@@ -140,33 +140,12 @@ NN本质是可微、非线性模块，未来应该拓展到不可微的情况。
 * 做好的研究，在自己的领域中留下名字，首先你要成为历史学家。  
 * 好的想法一定来自于大量的积累，多动脑，少计算。  
 # 总结  
-1.专业架构：statistics+optimization+computing——————machine learning/data science——————AI(CV+NLP)
+1.专业架构：statistics+optimization+computing——————machine learning/data science——————AI(CV+NLP)  
 2.机器学习分支总结：  
 (1)Unsupervised learning: 5 points  
 (2)Supervised learning: 5 points, including deap learning:deep neural networks and non-nn style deep models  
-(3)Reinforcement learning: MDP,POMAP+alphazero的框架
+(3)Reinforcement learning: MDP,POMAP+alphazero的框架  
 3.深度神经网络总结：模型分类：(1)有监督：CNN,RNN(2)无监督：Autoencoder,GAN  
 最核心的三个问题：(1)representation(2)optimization(3)generalization  
 背后的三朵乌云：(1)robustness(2)generalizaiton(3)interpretability  
 4.机器学习以及AI的未来：二维坐标，横坐标表示深度，纵坐标表示agent的数量，将来的智能既有深度又有多个模型，是一个AI系统层面的通用人工智能的框架，其中更深层次的问题是将AI系统去引入因果推断。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
